@@ -1,0 +1,10 @@
+{
+  "description": "Discover and book premium travel experiences across Egypt with a minimalist, elegant platform designed for effortless exploration and seamless reservations.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
