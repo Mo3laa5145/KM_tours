@@ -2,38 +2,10 @@ export type PageState =
   | { type: 'home' }
   | { type: 'destination'; id: string }
   | { type: 'experience'; destinationId: string; experienceId: string }
+  | { type: 'review'; reference: string }
 
-export type Currency = 'EGP' | 'USD' | 'EUR'
-export type Language = 'EN' | 'AR' | 'DE' | 'PL' | 'IT' | 'RU'
-
-export const EXCHANGE_RATES: Record<Currency, number> = {
-  EGP: 1,
-  USD: 0.021,
-  EUR: 0.019,
-}
-
-export const CURRENCY_SYMBOLS: Record<Currency, string> = {
-  EGP: 'EGP',
-  USD: '$',
-  EUR: '€',
-}
-
-export const LANGUAGE_LABELS: Record<Language, string> = {
-  EN: 'English',
-  AR: 'العربية',
-  DE: 'Deutsch',
-  PL: 'Polski',
-  IT: 'Italiano',
-  RU: 'Русский',
-}
-
-export function formatPrice(egp: number, currency: Currency): string {
-  const rate = EXCHANGE_RATES[currency]
-  const amount = Math.round(egp * rate)
-  if (currency === 'EGP') return `EGP ${amount.toLocaleString()}`
-  if (currency === 'USD') return `$${amount}`
-  return `€${amount}`
-}
+export type { Currency } from './lib/currency'
+export { EXCHANGE_RATES, CURRENCY_SYMBOLS, formatPrice } from './lib/currency'
 
 export type ExperienceCategory =
   | 'Water Sports'

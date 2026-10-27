@@ -1,0 +1,1564 @@
+{
+ "hurg-1": {
+  "title": "Safari dans le désert sous les étoiles",
+  "duration": "5 heures",
+  "description": "Échappez aux lumières de la ville pour une nuit inoubliable sous le ciel du désert. Cette expérience intimiste vous emmène au cœur du désert oriental, où des astronomes passionnés vous guident parmi les constellations, les planètes et les galaxies que seul le ciel exceptionnellement pur de l'Égypte permet d'admirer. Autour d'un feu de camp avec un thé bédouin traditionnel, vous découvrirez un ciel comme vous n'en avez jamais vu.",
+  "highlights": [
+   "Trajet en 4x4 au cœur du désert oriental, loin de toute pollution lumineuse",
+   "Un astronome professionnel commente le ciel nocturne en direct",
+   "Observation de planètes, nébuleuses et amas d'étoiles au télescope",
+   "Feu de camp bédouin avec thé, café et collations",
+   "Groupe de 8 personnes maximum pour une expérience intime",
+   "Conseils pour photographier la Voie lactée"
+  ],
+  "itinerary": [
+   {
+    "time": "19:00",
+    "activity": "Prise en charge à l'hôtel à Hurghada et Sahl Hasheesh"
+   },
+   {
+    "time": "20:00",
+    "activity": "Arrivée au camp — boissons de bienvenue et présentation"
+   },
+   {
+    "time": "20:30",
+    "activity": "Début de la visite des étoiles — constellations à l'œil nu et récits"
+   },
+   {
+    "time": "21:30",
+    "activity": "Séance au télescope : objets du ciel profond et planètes"
+   },
+   {
+    "time": "22:30",
+    "activity": "Feu de camp avec collations bédouines et boissons chaudes"
+   },
+   {
+    "time": "23:30",
+    "activity": "Retour à l'hôtel"
+   }
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel",
+   "Transport privé en 4x4 dans le désert",
+   "Astronome professionnel anglophone",
+   "Télescope haute puissance",
+   "Thé, café bédouin et collations",
+   "Couvertures chaudes pour la fraîcheur du désert"
+  ],
+  "excluded": [
+   "Pourboires (recommandés)",
+   "Boissons alcoolisées",
+   "Assurance voyage personnelle"
+  ],
+  "meetingPoint": "Hall de votre hôtel à Hurghada, Sahl Hasheesh ou El Gouna. L'heure exacte est confirmée 24 heures avant.",
+  "whatToBring": [
+   "Une couche chaude ou une veste légère (les nuits sont fraîches)",
+   "Chaussures fermées confortables",
+   "Appareil photo ou smartphone pour l'astrophotographie",
+   "Gourde personnelle"
+  ],
+  "cancellationPolicy": "Annulation gratuite jusqu'à 24 heures avant le début. Aucun remboursement en cas d'annulation tardive ou d'absence.",
+  "faq": [
+   {
+    "question": "Cette expérience convient-elle aux enfants ?",
+    "answer": "Oui, elle convient aux familles et aux enfants à partir de 6 ans. Les jeunes astronomes la trouvent souvent magique."
+   },
+   {
+    "question": "Que se passe-t-il en cas de mauvais temps ?",
+    "answer": "Dans le cas peu probable de nuages, nous reportons gratuitement ou remboursons intégralement. Hurghada compte plus de 330 nuits claires par an."
+   },
+   {
+    "question": "Quelle est la durée du trajet dans le désert ?",
+    "answer": "Environ 45 minutes depuis le centre de Hurghada. La route est confortable et le 4x4 passe partout."
+   }
+  ]
+ },
+ "hurg-2": {
+  "title": "Croisière snorkeling à Orange Bay",
+  "duration": "7 heures",
+  "description": "Naviguez jusqu'aux rivages préservés d'Orange Bay, l'une des plus belles plages de la mer Rouge. Explorez en snorkeling des jardins de corail colorés peuplés de poissons tropicaux, détendez-vous sur une plage de sable blanc moins fréquentée que les zones touristiques et savourez un déjeuner fraîchement préparé à bord. Cette sortie en mer d'une journée est l'expérience incontournable de la mer Rouge.",
+  "highlights": [
+   "Orange Bay, île de Giftun — parmi les plus belles plages d'Égypte",
+   "Deux arrêts snorkeling sur des récifs coralliens florissants",
+   "Buffet égyptien fraîchement préparé à bord",
+   "Vision sous-marine par bateau à fond de verre pour les non-nageurs",
+   "Temps libre pour nager, bronzer et explorer",
+   "Équipement de snorkeling professionnel inclus"
+  ],
+  "itinerary": [
+   {
+    "time": "08:00",
+    "activity": "Prise en charge à l'hôtel et transfert à la marina de Hurghada"
+   },
+   {
+    "time": "09:00",
+    "activity": "Départ de la marina — boissons de bienvenue et présentation"
+   },
+   {
+    "time": "10:00",
+    "activity": "Premier arrêt snorkeling sur le récif"
+   },
+   {
+    "time": "11:30",
+    "activity": "Arrivée à la plage d'Orange Bay — temps libre"
+   },
+   {
+    "time": "13:30",
+    "activity": "Déjeuner buffet servi à bord"
+   },
+   {
+    "time": "14:30",
+    "activity": "Deuxième arrêt snorkeling à l'île de Giftun"
+   },
+   {
+    "time": "16:00",
+    "activity": "Retour vers la marina de Hurghada"
+   },
+   {
+    "time": "17:00",
+    "activity": "Retour à l'hôtel"
+   }
+  ],
+  "included": [
+   "Transferts depuis l'hôtel",
+   "Excursion en bateau d'une journée",
+   "Équipement de snorkeling (masque, palmes, gilet)",
+   "Déjeuner buffet égyptien",
+   "Boissons non alcoolisées et eau",
+   "Droits d'entrée du parc national"
+  ],
+  "excluded": [
+   "Boissons alcoolisées (en vente à bord)",
+   "Location d'appareil photo sous-marin",
+   "Pourboires"
+  ],
+  "meetingPoint": "Prise en charge dans les hôtels de Hurghada, El Gouna et Sahl Hasheesh.",
+  "whatToBring": [
+   "Maillot de bain et serviette",
+   "Crème solaire (de préférence sans danger pour les récifs)",
+   "Lunettes de soleil et chapeau",
+   "Vêtements de rechange",
+   "Appareil photo sous-marin (facultatif)"
+  ],
+  "cancellationPolicy": "Annulation gratuite jusqu'à 24 heures avant le départ. En cas de mer agitée, remboursement intégral ou report proposé.",
+  "faq": [
+   {
+    "question": "Les non-nageurs peuvent-ils participer ?",
+    "answer": "Absolument. Des gilets de sauvetage sont fournis et le bateau à fond de verre est idéal pour ceux qui préfèrent ne pas faire de snorkeling."
+   },
+   {
+    "question": "Le déjeuner convient-il aux végétariens ?",
+    "answer": "Oui, le buffet propose plusieurs options végétariennes. Merci de nous signaler vos besoins alimentaires lors de la réservation."
+   }
+  ]
+ },
+ "hurg-3": {
+  "title": "Excursion en yacht : 3 îles et dauphins",
+  "duration": "8 heures",
+  "description": "Naviguez vers trois des plus belles îles de la mer Rouge à bord d'un yacht privé ou semi-privé et rencontrez des dauphins à long bec dans leur milieu naturel. Cette excursion haut de gamme comprend les meilleurs spots de snorkeling, un déjeuner de fruits de mer frais et la possibilité de voir des groupes de dauphins nager le long du bateau — l'une des expériences les plus mémorables d'Égypte.",
+  "highlights": [
+   "Trois îles inhabitées dont le célèbre récif de Dolphin House",
+   "Fortes chances de rencontrer des dauphins sauvages",
+   "Yacht premium avec pont ombragé et transats",
+   "Deux arrêts snorkeling de classe mondiale",
+   "Déjeuner de fruits de mer et cuisine égyptienne à bord",
+   "Petit groupe — 12 personnes maximum"
+  ],
+  "itinerary": [
+   {
+    "time": "07:30",
+    "activity": "Prise en charge à l'hôtel et transfert à la marina privée"
+   },
+   {
+    "time": "08:30",
+    "activity": "Bienvenue à bord — consignes de sécurité et rafraîchissements"
+   },
+   {
+    "time": "09:30",
+    "activity": "Récif de Dolphin House — observation des dauphins et snorkeling"
+   },
+   {
+    "time": "11:30",
+    "activity": "Première île — baignade et détente"
+   },
+   {
+    "time": "13:00",
+    "activity": "Déjeuner de fruits de mer servi à bord"
+   },
+   {
+    "time": "14:00",
+    "activity": "Deuxième arrêt snorkeling à Giftun Sud"
+   },
+   {
+    "time": "15:30",
+    "activity": "Dernière île — temps à la plage"
+   },
+   {
+    "time": "16:30",
+    "activity": "Retour vers la marina"
+   },
+   {
+    "time": "17:30",
+    "activity": "Retour à l'hôtel"
+   }
+  ],
+  "included": [
+   "Transferts depuis l'hôtel",
+   "Yacht privé pour la journée",
+   "Équipement de snorkeling professionnel",
+   "Buffet de fruits de mer et cuisine égyptienne",
+   "Boissons, eau et jus frais",
+   "Guide biologiste marin"
+  ],
+  "excluded": [
+   "Boissons alcoolisées",
+   "Pourboires",
+   "Assurance voyage"
+  ],
+  "meetingPoint": "Hall de l'hôtel. Prise en charge dans tous les hôtels de Hurghada.",
+  "whatToBring": [
+   "Maillot de bain",
+   "Crème solaire",
+   "Appareil photo avec caisson étanche",
+   "Veste légère"
+  ],
+  "cancellationPolicy": "Annulation gratuite jusqu'à 48 heures avant le départ. Aucun remboursement dans les 48 heures précédant le départ.",
+  "faq": [
+   {
+    "question": "L'observation des dauphins est-elle garantie ?",
+    "answer": "Les dauphins sont observés lors d'environ 95 % des sorties. Nous nous rendons au récif de Dolphin House, où des groupes de dauphins résident en permanence."
+   }
+  ]
+ },
+ "hurg-4": {
+  "title": "Location de yacht privé",
+  "duration": "Journée complète (8–10 h)",
+  "description": "Découvrez la mer Rouge en toute intimité à bord de votre propre yacht de luxe. Vous choisissez les îles, vous fixez le rythme. Idéale pour une lune de miel, un anniversaire ou une réunion entre proches, cette location exclusive comprend un chef privé, un équipement de snorkeling haut de gamme et un itinéraire entièrement personnalisé. La mer Rouge telle qu'elle doit être vécue.",
+  "highlights": [
+   "Yacht entièrement privatisé jusqu'à 10 personnes — aucun inconnu à bord",
+   "Itinéraire sur mesure parmi les plus belles îles de la mer Rouge",
+   "Chef privé à bord avec menu à la carte",
+   "Équipement de snorkeling et paddles haut de gamme",
+   "Champagne frais et boissons premium à l'arrivée",
+   "Hôte et équipage dédiés toute la journée"
+  ],
+  "itinerary": [
+   {
+    "time": "Flexible",
+    "activity": "Heure de départ et itinéraire selon vos envies"
+   },
+   {
+    "time": "Matin",
+    "activity": "Navigation vers la première destination choisie"
+   },
+   {
+    "time": "Midi",
+    "activity": "Le chef privé prépare votre déjeuner sur mesure"
+   },
+   {
+    "time": "Après-midi",
+    "activity": "Îles, snorkeling, baignade et bronzage à votre rythme"
+   },
+   {
+    "time": "Coucher du soleil",
+    "activity": "Cocktails au coucher du soleil sur le pont pendant le retour"
+   }
+  ],
+  "included": [
+   "Yacht de luxe privé jusqu'à 10 personnes",
+   "Capitaine et équipage professionnels",
+   "Chef privé avec menu personnalisé",
+   "Tous les repas et boissons premium",
+   "Équipement de snorkeling et paddles",
+   "Transferts depuis l'hôtel"
+  ],
+  "excluded": [
+   "Pourboires (très appréciés)",
+   "Alcools spéciaux (sur demande)"
+  ],
+  "meetingPoint": "Marina privée à Hurghada. Tous les détails sont communiqués après la réservation.",
+  "whatToBring": [
+   "Maillot de bain",
+   "Paréo ou couvre-maillot",
+   "Crème solaire",
+   "Appareil photo",
+   "Tout ce qui rendra la journée unique"
+  ],
+  "cancellationPolicy": "Les annulations 7 jours ou plus avant le départ sont remboursées à 50 %. Aucun remboursement dans les 7 jours.",
+  "faq": [
+   {
+    "question": "Pouvons-nous apporter nos propres repas et boissons ?",
+    "answer": "L'expérience inclut un chef privé, mais vous pouvez apporter ce que vous souhaitez en plus. Indiquez-nous vos préférences à l'avance."
+   }
+  ]
+ },
+ "hurg-5": {
+  "title": "Aventure en quad dans le désert",
+  "duration": "2,5 heures",
+  "description": "Foncez à travers le désert oriental égyptien sur un quad puissant pour une aventure pleine d'adrénaline. Traversez dunes de sable, plateaux rocheux et vastes panoramas désertiques. Cette balade guidée se termine dans un camp bédouin où vous profiterez du thé, de la chicha et du silence extraordinaire du désert au coucher du soleil.",
+  "highlights": [
+   "Pilotage sur dunes, plaines et terrains rocheux",
+   "Balade guidée par des professionnels — tous niveaux bienvenus",
+   "Panoramas désertiques spectaculaires et belles photos",
+   "Visite d'un camp bédouin avec thé et chicha",
+   "Départ au coucher du soleil possible pour la lumière dorée",
+   "Équipement de sécurité, casque et lunettes fournis"
+  ],
+  "itinerary": [
+   {
+    "time": "15:30",
+    "activity": "Prise en charge à l'hôtel et transfert à la base"
+   },
+   {
+    "time": "16:00",
+    "activity": "Consignes de sécurité et prise en main du quad"
+   },
+   {
+    "time": "16:30",
+    "activity": "Départ de la balade — piste guidée entre dunes et rochers"
+   },
+   {
+    "time": "17:30",
+    "activity": "Arrêt au camp bédouin — thé, café et chicha"
+   },
+   {
+    "time": "18:00",
+    "activity": "Retour à la base au coucher du soleil"
+   },
+   {
+    "time": "18:30",
+    "activity": "Retour à l'hôtel"
+   }
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel",
+   "Quad (un par personne ou un par couple)",
+   "Casque, lunettes et gants",
+   "Guide professionnel du désert",
+   "Thé et café bédouins",
+   "Eau en bouteille"
+  ],
+  "excluded": [
+   "Pourboires",
+   "Chicha (avec supplément)"
+  ],
+  "meetingPoint": "Hall de l'hôtel. Prise en charge dans tous les hôtels de Hurghada.",
+  "whatToBring": [
+   "Chaussures fermées (obligatoires)",
+   "Pantalon long recommandé",
+   "Lunettes de soleil",
+   "Foulard ou bandana contre la poussière"
+  ],
+  "cancellationPolicy": "Annulation gratuite jusqu'à 24 heures avant l'expérience. Aucun remboursement dans les 24 heures.",
+  "faq": [
+   {
+    "question": "Faut-il de l'expérience pour conduire un quad ?",
+    "answer": "Aucune expérience n'est nécessaire. Nos guides donnent toutes les explications et les quads sont faciles à conduire. Tous les niveaux sont acceptés."
+   },
+   {
+    "question": "Est-ce adapté aux enfants ?",
+    "answer": "Les enfants dès 10 ans peuvent monter comme passagers avec un adulte. Dès 16 ans, ils peuvent conduire leur propre quad."
+   }
+  ]
+ },
+ "sharm-1": {
+  "title": "Safari snorkeling et plongée à Ras Mohammed",
+  "duration": "6 heures",
+  "description": "Le parc national de Ras Mohammed protège certains des récifs coralliens les plus préservés au monde, et cette sortie en bateau vous mène directement à ses meilleurs sites de snorkeling et de plongée. Les récifs de Shark Bay et d'Eel Garden présentent des tombants de corail plongeant à des centaines de mètres, peuplés de centaines d'espèces de poissons. Une vie marine de classe mondiale dans l'un des trésors naturels les mieux protégés d'Égypte.",
+  "highlights": [
+   "Deux arrêts snorkeling et plongée dans le parc national de Ras Mohammed",
+   "Shark Bay — tombants coralliens, requins de récif et poissons tropicaux",
+   "Eel Garden — murènes, tortues et vie récifale",
+   "Option plongée bouteille pour les plongeurs certifiés",
+   "Instructeur de plongée certifié PADI à bord",
+   "Tout l'équipement de snorkeling et de plongée inclus"
+  ],
+  "itinerary": [
+   {
+    "time": "08:30",
+    "activity": "Prise en charge à l'hôtel à Charm el-Cheikh et Naama Bay"
+   },
+   {
+    "time": "09:30",
+    "activity": "Départ de la marina — briefing et ajustement de l'équipement"
+   },
+   {
+    "time": "10:30",
+    "activity": "Premier arrêt : snorkeling ou plongée à Shark Bay"
+   },
+   {
+    "time": "12:30",
+    "activity": "Déjeuner servi à bord"
+   },
+   {
+    "time": "13:30",
+    "activity": "Deuxième arrêt : snorkeling ou plongée à Eel Garden"
+   },
+   {
+    "time": "15:30",
+    "activity": "Retour à la marina et à l'hôtel"
+   }
+  ],
+  "included": [
+   "Transferts depuis l'hôtel",
+   "Sortie en bateau avec droits du parc",
+   "Équipement de snorkeling",
+   "Équipement de plongée (pour les plongeurs)",
+   "Instructeur PADI",
+   "Déjeuner et boissons non alcoolisées"
+  ],
+  "excluded": [
+   "Certification de plongée (PADI Open Water ou équivalent requis)",
+   "Boissons alcoolisées",
+   "Pourboires"
+  ],
+  "meetingPoint": "Hall de l'hôtel à Charm el-Cheikh ou Naama Bay.",
+  "whatToBring": [
+   "Maillot de bain",
+   "Crème solaire sans danger pour les récifs",
+   "Serviette",
+   "Appareil photo sous-marin",
+   "Carte de certification (plongeurs)"
+  ],
+  "cancellationPolicy": "Annulation gratuite jusqu'à 24 heures avant le départ.",
+  "faq": [
+   {
+    "question": "Dois-je être plongeur certifié ?",
+    "answer": "Le snorkeling est ouvert à tous. La plongée bouteille nécessite le niveau PADI Open Water ou équivalent. Nous proposons des baptêmes pour les débutants."
+   }
+  ]
+ },
+ "sharm-2": {
+  "title": "Excursion en bateau à l'île Blanche",
+  "duration": "6 heures",
+  "description": "Naviguez vers la magnifique île Blanche, un banc de sable préservé dans le détroit de Tiran qui apparaît et disparaît au gré des marées. Le récif environnant est l'un des plus riches de la mer Rouge : bancs de barracudas, napoléons et poissons colorés dans une eau d'une clarté exceptionnelle. Une journée complète de soleil, de mer, de snorkeling et de détente.",
+  "highlights": [
+   "Banc de sable de l'île Blanche — baignade dans une eau turquoise cristalline",
+   "Deux arrêts snorkeling sur les célèbres récifs de Tiran",
+   "L'île de Tiran et les quatre récifs coralliens du détroit",
+   "Déjeuner de fruits de mer et cuisine égyptienne à bord",
+   "Paisible et moins fréquenté que Ras Mohammed"
+  ],
+  "itinerary": [
+   {
+    "time": "08:00",
+    "activity": "Prise en charge à l'hôtel"
+   },
+   {
+    "time": "09:00",
+    "activity": "Départ de la marina de Charm"
+   },
+   {
+    "time": "10:30",
+    "activity": "Premier arrêt snorkeling — récif de Tiran"
+   },
+   {
+    "time": "12:00",
+    "activity": "Île Blanche — baignade et plage"
+   },
+   {
+    "time": "13:00",
+    "activity": "Déjeuner à bord"
+   },
+   {
+    "time": "14:00",
+    "activity": "Deuxième arrêt snorkeling"
+   },
+   {
+    "time": "16:00",
+    "activity": "Retour à la marina — retour à l'hôtel"
+   }
+  ],
+  "included": [
+   "Transferts depuis l'hôtel",
+   "Sortie en bateau",
+   "Équipement de snorkeling",
+   "Déjeuner et boissons"
+  ],
+  "excluded": [
+   "Boissons alcoolisées",
+   "Pourboires"
+  ],
+  "meetingPoint": "Hall de l'hôtel à Charm el-Cheikh ou Naama Bay.",
+  "whatToBring": [
+   "Maillot de bain",
+   "Crème solaire sans danger pour les récifs",
+   "Serviette"
+  ],
+  "cancellationPolicy": "Annulation gratuite jusqu'à 24 heures avant le départ.",
+  "faq": []
+ },
+ "sharm-3": {
+  "title": "Safari en quad dans le désert du Sinaï",
+  "duration": "3 heures",
+  "description": "Les paysages spectaculaires du Sinaï — montagnes rouges et ocre, vastes plaines et anciennes pistes bédouines — se découvrent idéalement en quad. Cette balade guidée traverse des terrains désertiques à couper le souffle, avec vue sur la mer Rouge et les montagnes d'Arabie saoudite sur l'autre rive. Elle se termine dans un camp bédouin pour une hospitalité traditionnelle sous les étoiles.",
+  "highlights": [
+   "Quad à travers le désert du Sinaï — dunes, pistes rocheuses et montagnes",
+   "Vues panoramiques sur la mer Rouge et l'île de Tiran",
+   "Visite d'un camp bédouin — thé, chicha et étoiles",
+   "Départ au coucher du soleil pour de superbes photos",
+   "Tout l'équipement de sécurité fourni"
+  ],
+  "itinerary": [
+   {
+    "time": "15:30",
+    "activity": "Prise en charge à l'hôtel"
+   },
+   {
+    "time": "16:00",
+    "activity": "Consignes de sécurité et prise en main du quad"
+   },
+   {
+    "time": "16:30",
+    "activity": "Départ — terrains variés et arrêts panoramiques"
+   },
+   {
+    "time": "17:30",
+    "activity": "Camp bédouin — coucher du soleil, thé et chicha"
+   },
+   {
+    "time": "18:30",
+    "activity": "Retour à l'hôtel"
+   }
+  ],
+  "included": [
+   "Transferts depuis l'hôtel",
+   "Quad",
+   "Équipement de sécurité",
+   "Thé bédouin",
+   "Guide"
+  ],
+  "excluded": [
+   "Chicha (facultative, payable au camp)",
+   "Pourboires"
+  ],
+  "meetingPoint": "Hall de l'hôtel à Charm el-Cheikh ou Naama Bay.",
+  "whatToBring": [
+   "Chaussures fermées",
+   "Pantalon long",
+   "Lunettes de soleil",
+   "Foulard contre la poussière"
+  ],
+  "cancellationPolicy": "Annulation gratuite jusqu'à 24 heures avant l'expérience.",
+  "faq": []
+ },
+ "sharm-4": {
+  "title": "Baptême de plongée sous-marine",
+  "duration": "3 heures",
+  "description": "Aucune certification requise. Nos instructeurs PADI vous donnent tout ce qu'il faut pour respirer sous l'eau pour la première fois dans l'une des meilleures destinations de plongée au monde. Après un briefing complet en piscine, vous entrerez dans les eaux cristallines de la mer Rouge pour une plongée guidée sur le récif aux côtés de votre instructeur. La densité de vie marine des récifs de Charm el-Cheikh rivalise avec les plus beaux sites de la planète.",
+  "highlights": [
+   "Aucune expérience requise — encadrement complet par un instructeur PADI",
+   "Séance en piscine pour apprendre la respiration et les bases",
+   "Plongée en mer sur un site protégé",
+   "2 élèves maximum par instructeur pour la sécurité",
+   "Tout l'équipement fourni — combinaison, bouteille, gilet, masque",
+   "Photos sous-marines prises par votre instructeur"
+  ],
+  "itinerary": [
+   {
+    "time": "09:00",
+    "activity": "Prise en charge à l'hôtel et transfert au centre de plongée"
+   },
+   {
+    "time": "09:30",
+    "activity": "Briefing théorique et ajustement de l'équipement"
+   },
+   {
+    "time": "10:00",
+    "activity": "Séance en piscine — respiration et exercices de base"
+   },
+   {
+    "time": "11:00",
+    "activity": "Transfert vers le site de plongée"
+   },
+   {
+    "time": "11:30",
+    "activity": "Plongée en mer sur le récif (environ 40 minutes)"
+   },
+   {
+    "time": "12:30",
+    "activity": "Débriefing et retour à l'hôtel"
+   }
+  ],
+  "included": [
+   "Transferts depuis l'hôtel",
+   "Instructeur PADI",
+   "Tout l'équipement de plongée",
+   "Séance en piscine",
+   "Plongée en mer",
+   "Photos sous-marines"
+  ],
+  "excluded": [
+   "Pourboires",
+   "Certification de plongée personnelle (cours séparé disponible)"
+  ],
+  "meetingPoint": "Hall de l'hôtel à Charm el-Cheikh ou Naama Bay.",
+  "whatToBring": [
+   "Maillot de bain",
+   "Serviette",
+   "Crème solaire",
+   "Vêtements de rechange"
+  ],
+  "cancellationPolicy": "Annulation gratuite jusqu'à 24 heures avant l'expérience.",
+  "faq": [
+   {
+    "question": "Est-ce sûr pour les non-nageurs ?",
+    "answer": "Il faut savoir nager un minimum et être à l'aise dans l'eau. Un équipement de flottaison complet est porté en permanence."
+   }
+  ]
+ },
+ "sharm-5": {
+  "title": "Parachute ascensionnel au-dessus de la mer Rouge",
+  "duration": "1,5 heure",
+  "description": "Envolez-vous à 150 mètres au-dessus de la mer Rouge turquoise en parachute ascensionnel biplace, avec une vue plongeante sur Charm el-Cheikh, l'île de Tiran et les montagnes du Sinaï. Décollage et atterrissage se font depuis le bateau — inutile de courir sur la plage — et le vol est doux, paisible et époustouflant. On vole à deux : parfait pour les couples ou les amis.",
+  "highlights": [
+   "Vol à 150 mètres au-dessus de la mer Rouge — panorama à 360°",
+   "Option biplace pour voler en couple ou entre amis",
+   "Décollage et atterrissage en douceur depuis le bateau",
+   "Vue sur l'île de Tiran, les montagnes du Sinaï et la côte de Charm",
+   "Vidéo GoPro incluse"
+  ],
+  "itinerary": [
+   {
+    "time": "10:00",
+    "activity": "Prise en charge à l'hôtel"
+   },
+   {
+    "time": "10:30",
+    "activity": "Arrivée à la plage — briefing et équipement"
+   },
+   {
+    "time": "11:00",
+    "activity": "Vol en parachute — environ 15 minutes dans les airs"
+   },
+   {
+    "time": "11:30",
+    "activity": "Atterrissage sur le bateau — visionnage de la vidéo GoPro"
+   },
+   {
+    "time": "12:00",
+    "activity": "Retour à l'hôtel"
+   }
+  ],
+  "included": [
+   "Transferts depuis l'hôtel",
+   "Vol en parachute ascensionnel",
+   "Gilet de sauvetage",
+   "Vidéo GoPro"
+  ],
+  "excluded": [
+   "Pourboires"
+  ],
+  "meetingPoint": "Hall de l'hôtel à Charm el-Cheikh ou Naama Bay.",
+  "whatToBring": [
+   "Maillot de bain",
+   "Lunettes de soleil",
+   "Chaussures bien attachées",
+   "Crème solaire"
+  ],
+  "cancellationPolicy": "Annulation gratuite jusqu'à 24 heures avant. Report si le vent rend le vol dangereux.",
+  "faq": [
+   {
+    "question": "Y a-t-il une limite de poids ?",
+    "answer": "Pour des raisons de sécurité, le poids maximum est de 120 kg en solo et de 200 kg cumulés en biplace."
+   }
+  ]
+ },
+ "cairo-1": {
+  "title": "Visite privée du Grand Musée égyptien",
+  "duration": "4 heures",
+  "description": "Explorez l'un des plus grands musées du monde avec un égyptologue diplômé qui fait revivre l'histoire antique. Le Grand Musée égyptien abrite plus de 100 000 objets, dont l'intégralité du trésor de Toutânkhamon. Évitez les files d'attente et accédez aux galeries privées pour une rencontre intime avec 5 000 ans de civilisation.",
+  "highlights": [
+   "Guide égyptologue diplômé privé, uniquement pour votre groupe",
+   "La collection complète de Toutânkhamon, dont le masque funéraire en or",
+   "Le Grand Atrium et la statue de Ramsès II de 11 mètres",
+   "Accès à certaines galeries avant leur ouverture au public",
+   "Explications détaillées sur les hiéroglyphes, la momification et les dynasties",
+   "Billets coupe-file inclus"
+  ],
+  "itinerary": [
+   {
+    "time": "08:30",
+    "activity": "Prise en charge à l'hôtel au Caire ou à Gizeh"
+   },
+   {
+    "time": "09:30",
+    "activity": "Arrivée au Grand Musée égyptien — entrée coupe-file"
+   },
+   {
+    "time": "09:45",
+    "activity": "Grand Atrium et statue de Ramsès II"
+   },
+   {
+    "time": "10:30",
+    "activity": "Galeries de Toutânkhamon — plus de 5 400 objets"
+   },
+   {
+    "time": "12:00",
+    "activity": "Salle des momies royales et bijoux antiques"
+   },
+   {
+    "time": "13:00",
+    "activity": "Dernière promenade dans les salles de la civilisation"
+   },
+   {
+    "time": "13:30",
+    "activity": "Retour à l'hôtel"
+   }
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel",
+   "Billets d'entrée coupe-file au GEM",
+   "Guide égyptologue privé agréé",
+   "Eau en bouteille"
+  ],
+  "excluded": [
+   "Achats personnels",
+   "Permis photo",
+   "Pourboires"
+  ],
+  "meetingPoint": "Hall de l'hôtel. Service disponible au Caire, à Gizeh et à Zamalek.",
+  "whatToBring": [
+   "Chaussures de marche confortables",
+   "Veste légère (le musée est climatisé)",
+   "Appareil photo"
+  ],
+  "cancellationPolicy": "Annulation gratuite jusqu'à 24 heures avant l'expérience.",
+  "faq": [
+   {
+    "question": "Le masque d'or de Toutânkhamon est-il exposé ?",
+    "answer": "Oui, la collection complète de Toutânkhamon, y compris le célèbre masque funéraire en or, est exposée en permanence au Grand Musée égyptien."
+   }
+  ]
+ },
+ "cairo-2": {
+  "title": "Visite privée des pyramides et du Sphinx",
+  "duration": "5 heures",
+  "description": "Tenez-vous devant la dernière merveille du monde antique encore debout, avec un égyptologue privé qui en connaît chaque pierre. La visite comprend la Grande Pyramide de Khéops, les pyramides de Khéphren et de Mykérinos et le célèbre Grand Sphinx, avec possibilité d'entrer dans une chambre funéraire. Pas de visite en bus bondé : une découverte sereine et sans précipitation de l'une des plus grandes réalisations de l'humanité.",
+  "highlights": [
+   "Guide privé pour votre groupe — sans inconnus, sans précipitation",
+   "Grande Pyramide, pyramides de Khéphren et de Mykérinos",
+   "Le Grand Sphinx et le temple de la Vallée",
+   "Entrée facultative dans une chambre de pyramide",
+   "Point de vue panoramique sur les trois pyramides",
+   "Balade à dos de chameau ou de cheval possible (à régler sur place)"
+  ],
+  "itinerary": [
+   {
+    "time": "07:00",
+    "activity": "Prise en charge à l'hôtel au Caire ou à Gizeh"
+   },
+   {
+    "time": "08:00",
+    "activity": "Arrivée sur le plateau de Gizeh — Grande Pyramide de Khéops"
+   },
+   {
+    "time": "09:30",
+    "activity": "Pyramide de Khéphren et point de vue panoramique"
+   },
+   {
+    "time": "10:30",
+    "activity": "Le Grand Sphinx et le temple de la Vallée"
+   },
+   {
+    "time": "11:30",
+    "activity": "Musée de la barque solaire"
+   },
+   {
+    "time": "12:30",
+    "activity": "Retour à l'hôtel"
+   }
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel",
+   "Billets d'entrée du plateau de Gizeh",
+   "Guide égyptologue privé agréé",
+   "Véhicule climatisé",
+   "Eau en bouteille"
+  ],
+  "excluded": [
+   "Entrée dans la pyramide (facultative, à régler sur place)",
+   "Balade à chameau ou à cheval",
+   "Pourboires"
+  ],
+  "meetingPoint": "Hall de l'hôtel. Disponible dans tous les hôtels du Caire et de Gizeh.",
+  "whatToBring": [
+   "Chaussures confortables",
+   "Chapeau et crème solaire",
+   "Appareil photo"
+  ],
+  "cancellationPolicy": "Annulation gratuite jusqu'à 24 heures avant la visite.",
+  "faq": [
+   {
+    "question": "Peut-on entrer dans la pyramide ?",
+    "answer": "Oui, l'accès à l'intérieur de la Grande Pyramide est possible moyennant un supplément payé sur place. Le guide vous expliquera ce que vous verrez."
+   }
+  ]
+ },
+ "cairo-3": {
+  "title": "Promenade dans le Vieux-Caire et le quartier islamique",
+  "duration": "4 heures",
+  "description": "Parcourez une ville dans la ville : le Caire islamique médiéval, inscrit au patrimoine mondial de l'UNESCO. Votre guide vous emmène dans des ruelles qui ont à peine changé depuis le Xe siècle, entre mosquées anciennes, bazars couverts, ateliers d'artisans et cours cachées. Le Caire au-delà des sites touristiques.",
+  "highlights": [
+   "Rue Al-Muizz — le plus grand musée à ciel ouvert d'architecture islamique",
+   "Bazar de Khan el-Khalili — le marché le plus célèbre d'Égypte",
+   "Mosquée Al-Azhar — plus de 1 000 ans de savoir",
+   "Le Caire copte — églises anciennes et Église suspendue",
+   "Thé traditionnel dans un caravansérail du XIVe siècle",
+   "Petit groupe de 8 personnes maximum"
+  ],
+  "itinerary": [
+   {
+    "time": "09:00",
+    "activity": "Rendez-vous à la mosquée Al-Hussein, quartier islamique"
+   },
+   {
+    "time": "09:15",
+    "activity": "Rue Al-Muizz et portes de la ville fatimide"
+   },
+   {
+    "time": "10:00",
+    "activity": "Visite de la mosquée Al-Azhar"
+   },
+   {
+    "time": "10:45",
+    "activity": "Bazar de Khan el-Khalili — ateliers d'artisans et thé"
+   },
+   {
+    "time": "12:00",
+    "activity": "Le Caire copte — Église suspendue et synagogue Ben Ezra"
+   },
+   {
+    "time": "13:00",
+    "activity": "Fin de la visite. Déjeuner possible à proximité."
+   }
+  ],
+  "included": [
+   "Guide privé agréé",
+   "Droits d'entrée des sites religieux",
+   "Thé égyptien traditionnel",
+   "Eau en bouteille"
+  ],
+  "excluded": [
+   "Déjeuner",
+   "Achats",
+   "Transport jusqu'au point de rendez-vous",
+   "Pourboires"
+  ],
+  "meetingPoint": "Cour de la mosquée Al-Hussein, Caire islamique. Prise en charge à l'hôtel possible avec supplément.",
+  "whatToBring": [
+   "Chaussures de marche confortables",
+   "Tenue correcte (épaules et genoux couverts — foulards fournis si besoin)",
+   "Espèces pour les achats"
+  ],
+  "cancellationPolicy": "Annulation gratuite jusqu'à 24 heures avant la visite.",
+  "faq": [
+   {
+    "question": "Faut-il une tenue correcte ?",
+    "answer": "Oui, pour visiter les mosquées, les épaules et les genoux doivent être couverts. Nous fournissons gratuitement foulards et étoles."
+   }
+  ]
+ },
+ "cairo-4": {
+  "title": "Dîner-croisière sur le Nil",
+  "duration": "3 heures",
+  "description": "Glissez sur le Nil de nuit à bord d'un bateau joliment illuminé et regardez les lumières du Caire scintiller sur l'eau. Savourez un généreux buffet de plats égyptiens et internationaux, de la musique orientale live et des spectacles traditionnels de danse Tanoura et de danse orientale. Le Nil la nuit est l'un des grands spectacles du Caire.",
+  "highlights": [
+   "Bateau de croisière à deux ponts avec vue panoramique",
+   "Généreux buffet — mezzés égyptiens, grillades et desserts",
+   "Musique orientale live et spectacles traditionnels",
+   "Danse Tanoura et danse orientale",
+   "Le Caire, Zamalek et les ponts illuminés de nuit"
+  ],
+  "itinerary": [
+   {
+    "time": "20:00",
+    "activity": "Prise en charge à l'hôtel et transfert à l'embarcadère"
+   },
+   {
+    "time": "20:30",
+    "activity": "Embarquement — boissons de bienvenue"
+   },
+   {
+    "time": "21:00",
+    "activity": "Départ de la croisière — début du dîner"
+   },
+   {
+    "time": "21:30",
+    "activity": "Musique live et spectacles culturels"
+   },
+   {
+    "time": "23:00",
+    "activity": "Retour au quai"
+   },
+   {
+    "time": "23:30",
+    "activity": "Retour à l'hôtel"
+   }
+  ],
+  "included": [
+   "Transferts depuis l'hôtel",
+   "Billet de croisière",
+   "Dîner buffet",
+   "Boissons non alcoolisées et jus",
+   "Animations live"
+  ],
+  "excluded": [
+   "Boissons alcoolisées",
+   "Pourboires"
+  ],
+  "meetingPoint": "Prise en charge dans tous les hôtels du Caire.",
+  "whatToBring": [
+   "Tenue décontractée chic",
+   "Appareil photo"
+  ],
+  "cancellationPolicy": "Annulation gratuite jusqu'à 24 heures avant le départ.",
+  "faq": [
+   {
+    "question": "L'alcool est-il disponible ?",
+    "answer": "Oui, des boissons alcoolisées sont en vente à bord."
+   }
+  ]
+ },
+ "cairo-5": {
+  "title": "Visite privée de Saqqarah, Memphis et Dahchour",
+  "duration": "7 heures",
+  "description": "Allez au-delà de Gizeh vers les nécropoles plus anciennes et plus paisibles de Saqqarah, Memphis et Dahchour. Découvrez la première pyramide du monde — la pyramide à degrés de Djéser — et descendez dans des tombeaux ornés de peintures éclatantes. Visitez l'ancienne capitale Memphis et la saisissante pyramide rhomboïdale de Dahchour. Ces sites reçoivent une fraction des visiteurs de Gizeh : le choix des connaisseurs.",
+  "highlights": [
+   "Pyramide à degrés de Saqqarah — le plus ancien grand monument en pierre (2650 av. J.-C.)",
+   "Tombeaux décorés de Mérérouka, Kagemni et Ounas",
+   "Memphis — ancienne capitale et colosse de Ramsès II",
+   "Dahchour — pyramides rhomboïdale et rouge, rarement visitées",
+   "Visite entièrement privée avec un égyptologue diplômé"
+  ],
+  "itinerary": [
+   {
+    "time": "08:00",
+    "activity": "Prise en charge à l'hôtel au Caire ou à Gizeh"
+   },
+   {
+    "time": "09:00",
+    "activity": "Saqqarah — pyramide à degrés et ensembles funéraires"
+   },
+   {
+    "time": "11:00",
+    "activity": "Musée en plein air de Memphis"
+   },
+   {
+    "time": "12:00",
+    "activity": "Déjeuner dans un restaurant local (inclus)"
+   },
+   {
+    "time": "13:00",
+    "activity": "Dahchour — pyramide rhomboïdale et pyramide rouge"
+   },
+   {
+    "time": "15:00",
+    "activity": "Retour à l'hôtel"
+   }
+  ],
+  "included": [
+   "Transferts depuis l'hôtel",
+   "Tous les droits d'entrée",
+   "Guide égyptologue privé",
+   "Déjeuner",
+   "Eau en bouteille"
+  ],
+  "excluded": [
+   "Achats personnels",
+   "Pourboires"
+  ],
+  "meetingPoint": "Hall de l'hôtel au Caire et à Gizeh.",
+  "whatToBring": [
+   "Chaussures confortables",
+   "Protection solaire",
+   "Appareil photo",
+   "Lampe de poche (pour l'intérieur des tombeaux)"
+  ],
+  "cancellationPolicy": "Annulation gratuite jusqu'à 24 heures avant la visite.",
+  "faq": [
+   {
+    "question": "Ces pyramides sont-elles moins fréquentées que Gizeh ?",
+    "answer": "Beaucoup moins. Saqqarah et Dahchour n'attirent qu'une fraction des visiteurs de Gizeh, et vous aurez souvent les sites pour vous seuls."
+   }
+  ]
+ },
+ "luxor-1": {
+  "title": "Visite privée de la Vallée des Rois",
+  "duration": "5 heures",
+  "description": "Descendez dans la nécropole royale des plus grands pharaons d'Égypte. La Vallée des Rois compte 63 tombeaux connus ; votre égyptologue privé vous emmène dans les plus beaux, avec des explications détaillées sur les parois peintes qui racontent l'au-delà depuis plus de 3 000 ans. L'une des rencontres les plus fortes avec le monde antique.",
+  "highlights": [
+   "Entrée dans trois tombeaux royaux, dont celui de Ramsès IV ou VI",
+   "Entrée facultative dans le tombeau de Toutânkhamon (supplément)",
+   "Le temple funéraire d'Hatchepsout à Deir el-Bahari",
+   "Les colosses de Memnon — debout depuis 1350 av. J.-C.",
+   "Guide égyptologue diplômé privé"
+  ],
+  "itinerary": [
+   {
+    "time": "06:30",
+    "activity": "Prise en charge à l'hôtel à Louxor — avant la chaleur et la foule"
+   },
+   {
+    "time": "07:00",
+    "activity": "Colosses de Memnon — arrêt photo et explications"
+   },
+   {
+    "time": "07:30",
+    "activity": "Vallée des Rois — trois tombeaux royaux"
+   },
+   {
+    "time": "10:00",
+    "activity": "Temple d'Hatchepsout à Deir el-Bahari"
+   },
+   {
+    "time": "12:00",
+    "activity": "Retour à l'hôtel"
+   }
+  ],
+  "included": [
+   "Transferts depuis l'hôtel",
+   "Entrée à la Vallée des Rois (3 tombeaux)",
+   "Entrée au temple de Deir el-Bahari",
+   "Guide égyptologue privé",
+   "Véhicule climatisé",
+   "Eau en bouteille"
+  ],
+  "excluded": [
+   "Entrée au tombeau de Toutânkhamon (facultative)",
+   "Pourboires"
+  ],
+  "meetingPoint": "Hall de l'hôtel sur la rive est ou ouest de Louxor.",
+  "whatToBring": [
+   "Chaussures confortables",
+   "Lampe de poche (utile dans les tombeaux)",
+   "Chapeau",
+   "Appareil photo"
+  ],
+  "cancellationPolicy": "Annulation gratuite jusqu'à 24 heures avant la visite.",
+  "faq": [
+   {
+    "question": "Les photos sont-elles autorisées dans les tombeaux ?",
+    "answer": "La photographie est autorisée dans la plupart des tombeaux. Celui de Toutânkhamon nécessite un permis séparé. Le flash est interdit."
+   }
+  ]
+ },
+ "luxor-2": {
+  "title": "Montgolfière au lever du soleil sur Louxor",
+  "duration": "Vol d'1 heure",
+  "description": "Flottez en silence au-dessus de la plus grande concentration de monuments antiques au monde pendant que le soleil se lève sur la vallée du Nil. Temples, tombeaux, ruban vert du Nil contre le désert calcaire : vue d'en haut à l'aube, Louxor est tout simplement à couper le souffle. Beaucoup de voyageurs considèrent ce vol d'une heure comme la plus belle expérience d'Égypte.",
+  "highlights": [
+   "Vol d'une heure au lever du soleil au-dessus de la rive ouest",
+   "Vue aérienne sur la Vallée des Rois, Karnak et le Nil",
+   "Pilote expérimenté totalisant des milliers d'heures de vol",
+   "Champagne à l'atterrissage",
+   "Certificat de vol remis",
+   "Prise en charge avant l'aube pour un lever de soleil parfait"
+  ],
+  "itinerary": [
+   {
+    "time": "04:00",
+    "activity": "Prise en charge à l'hôtel à Louxor — pendant que la ville dort"
+   },
+   {
+    "time": "04:45",
+    "activity": "Arrivée au site de décollage — gonflage du ballon"
+   },
+   {
+    "time": "05:30",
+    "activity": "Décollage aux premières lueurs"
+   },
+   {
+    "time": "06:30",
+    "activity": "Atterrissage suivi du champagne"
+   },
+   {
+    "time": "07:30",
+    "activity": "Retour à l'hôtel"
+   }
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel",
+   "Vol en montgolfière d'une heure",
+   "Champagne à l'atterrissage",
+   "Certificat de vol"
+  ],
+  "excluded": [
+   "Assurance voyage",
+   "Pourboires"
+  ],
+  "meetingPoint": "Hall de l'hôtel à Louxor. L'heure de prise en charge est confirmée la veille.",
+  "whatToBring": [
+   "Une couche chaude (il fait frais avant l'aube)",
+   "Appareil photo",
+   "Chaussures confortables"
+  ],
+  "cancellationPolicy": "Remboursement intégral si le vol est annulé pour cause météo. Aucun remboursement pour une annulation du client dans les 48 heures.",
+  "faq": [
+   {
+    "question": "Est-ce sûr ?",
+    "answer": "Les vols en montgolfière à Louxor sont contrôlés par l'Autorité égyptienne de l'aviation civile. Notre compagnie respecte les plus hautes normes internationales et nos pilotes sont entièrement certifiés."
+   },
+   {
+    "question": "Quel est l'âge minimum ?",
+    "answer": "L'âge minimum est de 6 ans. Les enfants doivent pouvoir rester debout seuls pendant tout le vol."
+   }
+  ]
+ },
+ "luxor-3": {
+  "title": "Le temple de Karnak au coucher du soleil",
+  "duration": "2,5 heures",
+  "description": "Le complexe de Karnak est le plus grand édifice religieux jamais construit par l'homme — et il est sublime à l'heure dorée. Parcourez l'allée des sphinx à tête de bélier, tenez-vous sous les 134 colonnes de la salle hypostyle et regardez le grès s'embraser au soleil couchant. Votre égyptologue déchiffre inscriptions et bas-reliefs tandis que le crépuscule transforme ce sanctuaire millénaire.",
+  "highlights": [
+   "Visite au coucher du soleil : photos spectaculaires et températures plus douces",
+   "La grande salle hypostyle — 134 colonnes géantes, les plus grandes jamais bâties",
+   "L'allée des sphinx menant au temple de Louxor",
+   "Le lac sacré et le scarabée de granit d'Amenhotep III",
+   "Guide égyptologue privé pour des explications approfondies"
+  ],
+  "itinerary": [
+   {
+    "time": "15:30",
+    "activity": "Prise en charge à l'hôtel"
+   },
+   {
+    "time": "16:00",
+    "activity": "Arrivée à Karnak — entrée et présentation"
+   },
+   {
+    "time": "16:15",
+    "activity": "Allée des sphinx criocéphales et premier pylône"
+   },
+   {
+    "time": "16:45",
+    "activity": "Grande salle hypostyle — visite détaillée"
+   },
+   {
+    "time": "17:30",
+    "activity": "Lac sacré, salle des fêtes et obélisques"
+   },
+   {
+    "time": "18:15",
+    "activity": "Temps libre et photos à l'heure dorée"
+   },
+   {
+    "time": "18:45",
+    "activity": "Retour à l'hôtel"
+   }
+  ],
+  "included": [
+   "Transferts depuis l'hôtel",
+   "Billet d'entrée à Karnak",
+   "Guide égyptologue privé",
+   "Eau en bouteille"
+  ],
+  "excluded": [
+   "Pourboires"
+  ],
+  "meetingPoint": "Hall de l'hôtel à Louxor.",
+  "whatToBring": [
+   "Appareil photo",
+   "Chaussures confortables",
+   "Veste légère pour après le coucher du soleil"
+  ],
+  "cancellationPolicy": "Annulation gratuite jusqu'à 24 heures avant la visite.",
+  "faq": []
+ },
+ "luxor-4": {
+  "title": "Le temple de Louxor de nuit",
+  "duration": "2 heures",
+  "description": "Le temple de Louxor est l'un des monuments antiques les mieux éclairés au monde. À la nuit tombée, le grès prend une teinte dorée chaleureuse contre le ciel nocturne — une expérience très différente de la visite de jour. Parcourez la colonnade d'Amenhotep III, admirez la mosquée Abou el-Haggag bâtie sur le temple antique et ressentez 3 000 ans de présence humaine continue sur ce site extraordinaire.",
+  "highlights": [
+   "Le temple de Louxor entièrement illuminé — jeux d'ombre et de lumière",
+   "Colosses de Ramsès II devant le pylône d'entrée",
+   "La magnifique colonnade d'Amenhotep III",
+   "La mosquée Abou el-Haggag — construite dans le temple antique",
+   "La corniche de Louxor de nuit"
+  ],
+  "itinerary": [
+   {
+    "time": "19:30",
+    "activity": "Prise en charge à l'hôtel"
+   },
+   {
+    "time": "20:00",
+    "activity": "Temple de Louxor — pylône d'entrée et statues"
+   },
+   {
+    "time": "20:30",
+    "activity": "Salle à colonnes et sanctuaires intérieurs"
+   },
+   {
+    "time": "21:15",
+    "activity": "Photos et exploration libre"
+   },
+   {
+    "time": "21:45",
+    "activity": "Promenade du soir sur la corniche de Louxor"
+   },
+   {
+    "time": "22:15",
+    "activity": "Retour à l'hôtel"
+   }
+  ],
+  "included": [
+   "Transferts depuis l'hôtel",
+   "Billet d'entrée au temple de Louxor",
+   "Guide privé",
+   "Eau en bouteille"
+  ],
+  "excluded": [
+   "Pourboires"
+  ],
+  "meetingPoint": "Hall de l'hôtel à Louxor.",
+  "whatToBring": [
+   "Appareil photo (trépied conseillé pour les photos de nuit)",
+   "Veste légère"
+  ],
+  "cancellationPolicy": "Annulation gratuite jusqu'à 24 heures avant la visite.",
+  "faq": []
+ },
+ "luxor-5": {
+  "title": "Excursion d'une journée à Dendérah et Abydos",
+  "duration": "9 heures",
+  "description": "Partez au-delà de Louxor vers deux des temples les plus spectaculaires et les moins visités d'Égypte. Dendérah possède le seul plafond zodiacal complet du monde antique. Abydos abrite les plus beaux reliefs peints d'Égypte, aux couleurs si vives qu'elles semblent fraîchement appliquées. Ces sites reçoivent une petite fraction des visiteurs de Karnak : une rencontre rare et sereine avec l'Égypte antique.",
+  "highlights": [
+   "Temple d'Hathor à Dendérah — le temple d'époque romaine le plus complet d'Égypte",
+   "Le célèbre zodiaque de Dendérah et les cryptes",
+   "Temple de Séthi Ier à Abydos — les plus beaux reliefs peints d'Égypte",
+   "L'Osiréion — un mystérieux cénotaphe souterrain",
+   "Guide égyptologue diplômé privé toute la journée"
+  ],
+  "itinerary": [
+   {
+    "time": "07:00",
+    "activity": "Prise en charge à l'hôtel"
+   },
+   {
+    "time": "09:00",
+    "activity": "Complexe du temple de Dendérah"
+   },
+   {
+    "time": "11:30",
+    "activity": "Route vers Abydos"
+   },
+   {
+    "time": "13:00",
+    "activity": "Déjeuner dans un restaurant local (inclus)"
+   },
+   {
+    "time": "14:00",
+    "activity": "Temple de Séthi Ier et Osiréion à Abydos"
+   },
+   {
+    "time": "17:00",
+    "activity": "Retour à l'hôtel à Louxor"
+   }
+  ],
+  "included": [
+   "Transferts depuis l'hôtel",
+   "Tous les droits d'entrée",
+   "Guide égyptologue privé",
+   "Déjeuner",
+   "Eau en bouteille"
+  ],
+  "excluded": [
+   "Achats personnels",
+   "Pourboires"
+  ],
+  "meetingPoint": "Hall de l'hôtel à Louxor.",
+  "whatToBring": [
+   "Chaussures confortables",
+   "Lampe de poche (utile dans les cryptes)",
+   "Appareil photo"
+  ],
+  "cancellationPolicy": "Annulation gratuite jusqu'à 24 heures avant la visite.",
+  "faq": []
+ },
+ "aswan-1": {
+  "title": "Visite du temple de Philae en bateau",
+  "duration": "3 heures",
+  "description": "Rejoignez en bateau le temple insulaire de Philae, joyau des temples égyptiens dédié à la déesse Isis. Sauvé pierre par pierre de la montée des eaux lors de l'une des plus grandes opérations de sauvetage archéologique de l'histoire, Philae se dresse sur son île, accessible uniquement par bateau. Au coucher du soleil, le granit rose rayonne face au bleu profond du Nil : l'un des lieux les plus romantiques d'Égypte.",
+  "highlights": [
+   "Traversée en bateau à moteur jusqu'à l'île de Philae",
+   "Temple d'Isis — le dernier temple païen actif du monde romain",
+   "Kiosque de Trajan — l'un des monuments les plus photographiés d'Égypte",
+   "Spectacle son et lumière possible en soirée",
+   "Guide égyptologue privé"
+  ],
+  "itinerary": [
+   {
+    "time": "15:00",
+    "activity": "Prise en charge à l'hôtel à Assouan"
+   },
+   {
+    "time": "15:30",
+    "activity": "Arrivée au quai de Shellal — embarquement"
+   },
+   {
+    "time": "16:00",
+    "activity": "Île de Philae — visite guidée du temple d'Isis"
+   },
+   {
+    "time": "17:30",
+    "activity": "Kiosque de Trajan et photos"
+   },
+   {
+    "time": "18:00",
+    "activity": "Retour en bateau au quai"
+   },
+   {
+    "time": "18:30",
+    "activity": "Retour à l'hôtel"
+   }
+  ],
+  "included": [
+   "Transferts depuis l'hôtel",
+   "Traversée en bateau à moteur",
+   "Billet d'entrée à Philae",
+   "Guide privé",
+   "Eau en bouteille"
+  ],
+  "excluded": [
+   "Spectacle son et lumière (soirée facultative)",
+   "Pourboires"
+  ],
+  "meetingPoint": "Hall de l'hôtel à Assouan.",
+  "whatToBring": [
+   "Appareil photo",
+   "Chaussures confortables",
+   "Protection solaire"
+  ],
+  "cancellationPolicy": "Annulation gratuite jusqu'à 24 heures avant la visite.",
+  "faq": []
+ },
+ "aswan-2": {
+  "title": "Excursion d'une journée aux temples d'Abou Simbel",
+  "duration": "Journée complète (10–11 h)",
+  "description": "Les grands temples d'Abou Simbel comptent parmi les monuments les plus impressionnants de la planète. Taillés à même la montagne par Ramsès II il y a plus de 3 200 ans, puis déplacés intacts pour échapper aux eaux du lac Nasser, ils témoignent à la fois du génie antique et de la prouesse moderne. Le convoi part d'Assouan au petit matin et arrive quand les temples baignent dans la lumière dorée du désert.",
+  "highlights": [
+   "Le grand temple de Ramsès II — quatre colosses de 20 mètres",
+   "Le petit temple d'Hathor, dédié à Néfertari",
+   "Superbes reliefs peints et salle hypostyle",
+   "Arrivée au lever du soleil : meilleure lumière et moins de monde",
+   "Guide égyptologue privé"
+  ],
+  "itinerary": [
+   {
+    "time": "03:30",
+    "activity": "Prise en charge à l'hôtel pour le convoi de l'aube"
+   },
+   {
+    "time": "07:00",
+    "activity": "Arrivée à Abou Simbel sous le soleil du matin"
+   },
+   {
+    "time": "07:15",
+    "activity": "Grand temple de Ramsès II — visite guidée"
+   },
+   {
+    "time": "09:00",
+    "activity": "Temple d'Hathor (Néfertari) — visite guidée"
+   },
+   {
+    "time": "10:00",
+    "activity": "Temps libre pour les photos et l'exploration"
+   },
+   {
+    "time": "10:30",
+    "activity": "Départ vers Assouan"
+   },
+   {
+    "time": "14:00",
+    "activity": "Retour à l'hôtel"
+   }
+  ],
+  "included": [
+   "Prise en charge et retour à l'hôtel",
+   "Véhicule climatisé en convoi",
+   "Billets d'entrée à Abou Simbel",
+   "Guide égyptologue privé",
+   "Petit-déjeuner en route",
+   "Eau en bouteille"
+  ],
+  "excluded": [
+   "Pourboires",
+   "Achats personnels"
+  ],
+  "meetingPoint": "Hall de l'hôtel à Assouan.",
+  "whatToBring": [
+   "Appareil photo",
+   "Chaussures confortables",
+   "Une couche chaude (départ avant l'aube)",
+   "Crème solaire"
+  ],
+  "cancellationPolicy": "Annulation gratuite jusqu'à 48 heures avant la visite.",
+  "faq": [
+   {
+    "question": "Pourquoi un départ si matinal ?",
+    "answer": "Abou Simbel est à 280 km d'Assouan et les véhicules circulent en convoi pour des raisons de sécurité. Arriver au lever du soleil offre la meilleure lumière et le moins de monde."
+   }
+  ]
+ },
+ "aswan-3": {
+  "title": "Découverte d’un village nubien",
+  "duration": "3 heures",
+  "description": "Traversez le Nil en felouque traditionnelle pour visiter un authentique village nubien sur la rive ouest. Le peuple nubien possède l'une des plus anciennes civilisations continues du monde, et ses maisons peintes, sa musique et ses traditions sont uniques en Égypte. Partagez thé et karkadé avec une famille nubienne, voyez les crocodiles du village et découvrez l'artisanat local lors d'une rencontre chaleureuse et authentique.",
+  "highlights": [
+   "Traversée en felouque traditionnelle vers la rive ouest",
+   "Promenade dans un village nubien aux maisons colorées",
+   "Visite chez une famille nubienne et échange culturel",
+   "Karkadé traditionnel et café nubien",
+   "Démonstration de musique nubienne",
+   "Rencontre avec les crocodiles du village"
+  ],
+  "itinerary": [
+   {
+    "time": "10:00",
+    "activity": "Prise en charge à l'hôtel"
+   },
+   {
+    "time": "10:30",
+    "activity": "Embarquement en felouque — navigation vers le village nubien"
+   },
+   {
+    "time": "11:00",
+    "activity": "Visite du village avec un guide local"
+   },
+   {
+    "time": "11:30",
+    "activity": "Visite chez une famille nubienne — thé et discussion"
+   },
+   {
+    "time": "12:30",
+    "activity": "Musique, artisanat et crocodiles"
+   },
+   {
+    "time": "13:00",
+    "activity": "Retour en felouque et à l'hôtel"
+   }
+  ],
+  "included": [
+   "Transferts depuis l'hôtel",
+   "Traversée en felouque",
+   "Guide local",
+   "Karkadé",
+   "Eau en bouteille"
+  ],
+  "excluded": [
+   "Achats d'artisanat",
+   "Pourboires"
+  ],
+  "meetingPoint": "Hall de l'hôtel à Assouan.",
+  "whatToBring": [
+   "Espèces pour l'artisanat",
+   "Appareil photo",
+   "Chaussures confortables"
+  ],
+  "cancellationPolicy": "Annulation gratuite jusqu'à 24 heures avant l'expérience.",
+  "faq": []
+ },
+ "aswan-4": {
+  "title": "Balade en felouque au coucher du soleil",
+  "duration": "2 heures",
+  "description": "Il n'y a pas de façon plus paisible de découvrir Assouan qu'une balade en felouque traditionnelle au coucher du soleil. Glissez en silence entre les îles de granit, l'île Éléphantine et le Jardin botanique tandis que le ciel se teinte d'or et de rose au-dessus du désert. L'expérience la plus simple et la plus belle sur le Nil : rythme lent, brise légère, silence.",
+  "highlights": [
+   "Felouque égyptienne traditionnelle — sans moteur, uniquement à la voile",
+   "Au coucher du soleil, pour des couleurs extraordinaires sur le Nil",
+   "Vue sur l'île Éléphantine, l'île Kitchener et le mausolée de l'Aga Khan",
+   "Karkadé (thé d'hibiscus) et fruits frais servis à bord",
+   "8 personnes maximum — intime et paisible"
+  ],
+  "itinerary": [
+   {
+    "time": "16:30",
+    "activity": "Rendez-vous à l'embarcadère des felouques près de la corniche"
+   },
+   {
+    "time": "16:45",
+    "activity": "Départ — le capitaine présente les îles"
+   },
+   {
+    "time": "17:30",
+    "activity": "Meilleur point de vue du coucher du soleil — karkadé et fruits"
+   },
+   {
+    "time": "18:30",
+    "activity": "Retour à l'embarcadère"
+   }
+  ],
+  "included": [
+   "Location de la felouque",
+   "Capitaine",
+   "Karkadé et fruits"
+  ],
+  "excluded": [
+   "Transfert depuis l'hôtel (à pied depuis la plupart des hôtels de la corniche)",
+   "Pourboires"
+  ],
+  "meetingPoint": "Corniche d'Assouan, près du quai de l'hôtel Mövenpick. À 5 minutes à pied de la plupart des hôtels de la corniche.",
+  "whatToBring": [
+   "Veste légère (il fait frais après le coucher du soleil)",
+   "Appareil photo",
+   "Un peu d'espèces pour le pourboire"
+  ],
+  "cancellationPolicy": "Annulation gratuite jusqu'à 24 heures avant la balade.",
+  "faq": [
+   {
+    "question": "Est-ce adapté aux enfants ?",
+    "answer": "Oui, la felouque est paisible et sûre pour les enfants de tout âge. Des gilets de sauvetage sont disponibles."
+   }
+  ]
+ },
+ "aswan-5": {
+  "title": "Haut barrage d'Assouan et obélisque inachevé",
+  "duration": "3 heures",
+  "description": "Une demi-journée qui réunit prouesses d'ingénierie modernes et antiques. Le haut barrage d'Assouan est l'une des plus grandes réalisations du XXe siècle ; votre guide explique comment il a transformé l'économie et l'agriculture égyptiennes tout en submergeant la Nubie. L'obélisque inachevé, dans les anciennes carrières de granit, révèle comment les Égyptiens taillaient ces monuments colossaux — abandonné en cours de taille il y a 3 500 ans.",
+  "highlights": [
+   "Le haut barrage — prouesse technique qui a transformé l'Égypte moderne",
+   "Vue sur le lac Nasser, l'un des plus grands lacs artificiels du monde",
+   "L'obélisque inachevé — abandonné dans la carrière il y a 3 500 ans",
+   "Les techniques antiques de taille de la pierre et de transport des obélisques",
+   "Le contraste entre génie égyptien ancien et moderne"
+  ],
+  "itinerary": [
+   {
+    "time": "09:00",
+    "activity": "Prise en charge à l'hôtel"
+   },
+   {
+    "time": "09:30",
+    "activity": "Haut barrage — point de vue et explications"
+   },
+   {
+    "time": "10:30",
+    "activity": "Route vers les anciennes carrières de granit"
+   },
+   {
+    "time": "11:00",
+    "activity": "L'obélisque inachevé — visite guidée complète"
+   },
+   {
+    "time": "12:00",
+    "activity": "Retour à l'hôtel"
+   }
+  ],
+  "included": [
+   "Transferts depuis l'hôtel",
+   "Droits d'entrée",
+   "Guide",
+   "Eau en bouteille"
+  ],
+  "excluded": [
+   "Pourboires"
+  ],
+  "meetingPoint": "Hall de l'hôtel à Assouan.",
+  "whatToBring": [
+   "Chaussures confortables",
+   "Chapeau",
+   "Appareil photo"
+  ],
+  "cancellationPolicy": "Annulation gratuite jusqu'à 24 heures avant la visite.",
+  "faq": []
+ }
+}

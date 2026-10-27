@@ -1,5 +1,6 @@
 import type { Experience, Currency, PageState } from '../data'
-import { formatPrice } from '../data'
+import { formatPrice } from '../lib/currency'
+import { useI18n } from '../lib/i18n'
 
 interface ExperienceCardProps {
   experience: Experience
@@ -38,6 +39,7 @@ export default function ExperienceCard({
   isFavorited,
   onToggleFavorite,
 }: ExperienceCardProps) {
+  const { t, lang, categoryLabel, tourLanguageLabel } = useI18n()
   const handleClick = () => {
     navigate({ type: 'experience', destinationId: experience.destinationId, experienceId: experience.id })
   }
@@ -69,20 +71,20 @@ export default function ExperienceCard({
           onMouseLeave={(e) => ((e.currentTarget as HTMLElement).style.transform = 'scale(1)')}
         />
         {/* Badges */}
-        <div className="absolute top-3 left-3 flex flex-col gap-1.5">
+        <div className="absolute top-3 start-3 flex flex-col gap-1.5">
           {experience.freeCancellation && (
             <span
               className="text-xs font-medium px-2.5 py-1 rounded-full"
               style={{ backgroundColor: 'rgba(255,255,255,0.95)', color: '#059669', fontSize: '11px' }}
             >
-              Free cancellation
+              {t('card.freeCancel')}
             </span>
           )}
         </div>
         {/* Favorite button */}
         {onToggleFavorite && (
           <button
-            className="absolute top-3 right-3 w-8 h-8 rounded-full flex items-center justify-center transition-colors"
+            className="absolute top-3 end-3 w-8 h-8 rounded-full flex items-center justify-center transition-colors"
             style={{ backgroundColor: 'rgba(255,255,255,0.9)' }}
             onClick={(e) => { e.stopPropagation(); onToggleFavorite(experience.id) }}
           >
@@ -104,7 +106,7 @@ export default function ExperienceCard({
       <div className="flex flex-col flex-1 p-4">
         {/* Category */}
         <div className="text-xs font-medium mb-2" style={{ color: '#0EA5E9' }}>
-          {experience.category}
+          {categoryLabel(experience.category)}
         </div>
 
         {/* Title */}
@@ -138,7 +140,7 @@ export default function ExperienceCard({
             <svg className="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth={1.8}>
               <path strokeLinecap="round" strokeLinejoin="round" d="M10.5 21l5.25-11.25L21 21m-9-3h7.5M3 5.621a48.474 48.474 0 016-.371m0 0c1.12 0 2.233.038 3.334.114M9 5.25V3m3.334 2.364C11.176 10.658 7.69 15.08 3 17.502m9.334-12.138c.896.061 1.785.147 2.666.257m-4.589 8.495a18.023 18.023 0 01-3.827-5.802" />
             </svg>
-            {experience.languages.slice(0, 2).join(', ')}
+            {experience.languages.slice(0, 2).map(tourLanguageLabel).join(lang === 'ar' ? '، ' : ', ')}
             {experience.languages.length > 2 && ` +${experience.languages.length - 2}`}
           </div>
           {experience.pickupAvailable && (
@@ -146,7 +148,7 @@ export default function ExperienceCard({
               <svg className="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth={1.8}>
                 <path strokeLinecap="round" strokeLinejoin="round" d="M8.25 18.75a1.5 1.5 0 01-3 0m3 0a1.5 1.5 0 00-3 0m3 0h6m-9 0H3.375a1.125 1.125 0 01-1.125-1.125V14.25m17.25 4.5a1.5 1.5 0 01-3 0m3 0a1.5 1.5 0 00-3 0m3 0h1.125c.621 0 1.129-.504 1.09-1.124a17.902 17.902 0 00-3.213-9.193 2.056 2.056 0 00-1.58-.86H14.25M16.5 18.75h-2.25m0-11.177v-.958c0-.568-.422-1.048-.987-1.106a48.554 48.554 0 00-10.026 0 1.106 1.106 0 00-.987 1.106v7.635m12-6.677v6.677m0 4.5v-4.5m0 0h-12" />
               </svg>
-              Pickup included
+              {t('card.pickup')}
             </div>
           )}
         </div>
@@ -157,11 +159,11 @@ export default function ExperienceCard({
         {/* Price + Book */}
         <div className="flex items-center justify-between pt-3" style={{ borderTop: '1px solid #F1F5F9' }}>
           <div>
-            <div className="text-xs mb-0.5" style={{ color: '#94A3B8' }}>From</div>
+            <div className="text-xs mb-0.5" style={{ color: '#94A3B8' }}>{t('card.from')}</div>
             <div className="font-bold text-base" style={{ color: '#1E293B' }}>
               {formatPrice(experience.price, currency)}
             </div>
-            <div className="text-xs" style={{ color: '#94A3B8' }}>per person</div>
+            <div className="text-xs" style={{ color: '#94A3B8' }}>{t('card.perPerson')}</div>
           </div>
           <button
             onClick={(e) => { e.stopPropagation(); handleClick() }}
@@ -170,7 +172,7 @@ export default function ExperienceCard({
             onMouseEnter={(e) => ((e.currentTarget as HTMLElement).style.backgroundColor = '#0369A1')}
             onMouseLeave={(e) => ((e.currentTarget as HTMLElement).style.backgroundColor = '#0EA5E9')}
           >
-            View
+            {t('card.view')}
           </button>
         </div>
       </div>

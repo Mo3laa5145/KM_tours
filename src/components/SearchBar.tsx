@@ -1,6 +1,7 @@
 import { useState, useRef, useEffect } from 'react'
 import type { PageState } from '../data'
-import { DESTINATIONS } from '../data'
+import { useCatalog } from '../lib/catalogContext'
+import { useI18n } from '../lib/i18n'
 
 interface SearchBarProps {
   navigate: (p: PageState) => void
@@ -9,6 +10,8 @@ interface SearchBarProps {
 }
 
 export default function SearchBar({ navigate, large, defaultValue = '' }: SearchBarProps) {
+  const { destinations: DESTINATIONS } = useCatalog()
+  const { t } = useI18n()
   const [query, setQuery] = useState(defaultValue)
   const [open, setOpen] = useState(false)
   const [focused, setFocused] = useState(false)
@@ -18,7 +21,7 @@ export default function SearchBar({ navigate, large, defaultValue = '' }: Search
   const filtered = query.trim().length === 0
     ? DESTINATIONS
     : DESTINATIONS.filter((d) =>
-        d.name.toLowerCase().includes(query.toLowerCase())
+        d.name.toLowerCase().includes(query.toLowerCase()) || d.id.includes(query.toLowerCase())
       )
 
   useEffect(() => {
@@ -57,7 +60,7 @@ export default function SearchBar({ navigate, large, defaultValue = '' }: Search
         }}
       >
         <svg
-          className="shrink-0 mr-3"
+          className="shrink-0 me-3"
           style={{ color: focused ? '#0EA5E9' : '#94A3B8', width: large ? '20px' : '18px', height: large ? '20px' : '18px' }}
           fill="none"
           stroke="currentColor"
@@ -72,7 +75,7 @@ export default function SearchBar({ navigate, large, defaultValue = '' }: Search
           value={query}
           onChange={(e) => { setQuery(e.target.value); setOpen(true) }}
           onFocus={() => { setFocused(true); setOpen(true) }}
-          placeholder="Search destinations like Hurghada, Cairo, Luxor..."
+          placeholder={t('search.placeholder')}
           className="flex-1 bg-transparent outline-none"
           style={{
             fontSize: large ? '16px' : '15px',
@@ -83,7 +86,7 @@ export default function SearchBar({ navigate, large, defaultValue = '' }: Search
         {query && (
           <button
             onClick={() => { setQuery(''); inputRef.current?.focus() }}
-            className="ml-2 shrink-0 w-6 h-6 rounded-full flex items-center justify-center transition-colors"
+            className="ms-2 shrink-0 w-6 h-6 rounded-full flex items-center justify-center transition-colors"
             style={{ backgroundColor: '#E5E7EB', color: '#64748B' }}
           >
             <svg className="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth={2.5}>
@@ -105,14 +108,14 @@ export default function SearchBar({ navigate, large, defaultValue = '' }: Search
         >
           {filtered.length === 0 ? (
             <div className="px-4 py-6 text-center text-sm" style={{ color: '#94A3B8' }}>
-              No destinations found
+              {t('search.none')}
             </div>
           ) : (
             filtered.map((dest) => (
               <button
                 key={dest.id}
                 onClick={() => handleSelect(dest.id)}
-                className="w-full flex items-center gap-3 px-4 py-3 transition-colors text-left"
+                className="w-full flex items-center gap-3 px-4 py-3 transition-colors text-start"
                 onMouseEnter={(e) => ((e.currentTarget as HTMLElement).style.backgroundColor = '#F8FCFD')}
                 onMouseLeave={(e) => ((e.currentTarget as HTMLElement).style.backgroundColor = 'transparent')}
               >
@@ -129,10 +132,10 @@ export default function SearchBar({ navigate, large, defaultValue = '' }: Search
                     {dest.name}
                   </div>
                   <div className="text-xs mt-0.5" style={{ color: '#94A3B8' }}>
-                    {dest.experiences.length} experiences available
+                    {t('common.experiencesAvailable', { n: dest.experiences.length })}
                   </div>
                 </div>
-                <svg className="w-4 h-4 shrink-0" style={{ color: '#CBD5E1' }} fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth={2}>
+                <svg className="w-4 h-4 shrink-0 rtl:rotate-180" style={{ color: '#CBD5E1' }} fill="none" stroke="currentColor" viewBox="0 0 24 24" strokeWidth={2}>
                   <path strokeLinecap="round" strokeLinejoin="round" d="M8.25 4.5l7.5 7.5-7.5 7.5" />
                 </svg>
               </button>
