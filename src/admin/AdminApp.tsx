@@ -94,6 +94,21 @@ function AuthGate({ path }: { path: string }) {
   return <Layout path={path} email={session.user.email ?? ''} />
 }
 
+/**
+ * Admins can log in with a phone number + password (no SMS needed):
+ * the number is turned into an internal address like 201555382365@phone.kmtours.app,
+ * which is the email used when creating the admin user in Supabase.
+ */
+export const PHONE_LOGIN_DOMAIN = 'phone.kmtours.app'
+
+export function loginToEmail(input: string): string {
+  const v = input.trim()
+  if (v.includes('@')) return v.toLowerCase()
+  let digits = v.replace(/[^\d]/g, '').replace(/^00/, '')
+  if (/^01\d{9}$/.test(digits)) digits = '20' + digits.slice(1)
+  return `${digits}@${PHONE_LOGIN_DOMAIN}`
+}
+
 function Login() {
   const [email, setEmail] = useState('')
   const [password, setPassword] = useState('')
@@ -104,7 +119,7 @@ function Login() {
     e.preventDefault()
     setBusy(true)
     setErr('')
-    const { error } = await supabase!.auth.signInWithPassword({ email: email.trim(), password })
+    const { error } = await supabase!.auth.signInWithPassword({ email: loginToEmail(email), password })
     if (error) setErr(errorText(error))
     setBusy(false)
   }
@@ -119,8 +134,18 @@ function Login() {
           <div className="text-sm text-slate-500 mt-1">تسجيل دخول لوحة التحكم</div>
         </div>
         <div className="space-y-4">
-          <Field label="البريد الإلكتروني">
-            <input type="email" dir="ltr" value={email} onChange={(e) => setEmail(e.target.value)} className={inputCls} autoComplete="username" required />
+          <Field label="رقم الموبايل أو الإيميل">
+            <input
+              type="text"
+              inputMode="tel"
+              dir="ltr"
+              value={email}
+              onChange={(e) => setEmail(e.target.value)}
+              className={inputCls}
+              autoComplete="username"
+              placeholder="01xxxxxxxxx"
+              required
+            />
           </Field>
           <Field label="كلمة المرور">
             <input type="password" dir="ltr" value={password} onChange={(e) => setPassword(e.target.value)} className={inputCls} autoComplete="current-password" required />
