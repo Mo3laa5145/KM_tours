@@ -24,7 +24,7 @@
 ## 1) Supabase (قاعدة البيانات)
 1. ادخل على https://supabase.com، اعمل حساب، واضغط **New project**. يفضل تختار Region **Frankfurt**.
 2. افتح **SQL Editor**، ثم **New query**، والصق محتوى `supabase/schema.sql` كله واضغط **Run**.
-3. اعمل **New query** تاني، والصق محتوى `supabase/seed.sql` واضغط **Run**. ده بيضيف الرحلات والترجمات والتقييمات الحالية.
+3. شغّل ملفات `supabase/seed-part1.sql` لحد `seed-part7.sql` بالترتيب، كل ملف في **New query** لوحده ثم **Run**. دي بتضيف الرحلات والترجمات والتقييمات الحالية. (`seed.sql` هو نفس المحتوى في ملف واحد كبير.)
 4. **حساب الأدمن**:
    - افتح **Authentication**، ثم **Users**، ثم **Add user**، ثم **Create new user**.
    - اكتب الإيميل وكلمة سر قوية، وفعّل **Auto Confirm User**.
