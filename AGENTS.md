@@ -1,23 +1,32 @@
-# figma-make-app
+# KM Tours
 
-React + Vite + Tailwind CSS project running inside Figma Make.
+Egypt tourism booking site in Arabic, English, French, and German. React 19, Vite 8, Tailwind 4, Supabase. Live on Vercel. Booking has no online payment. Work on a branch and open a PR.
 
-## Development Server
+## Where things are
+- `src/pages/`: public pages; `src/components/`: shared UI
+- `src/components/BookingForm.tsx`: booking request form
+- `src/admin/`: dashboard at `/#/admin`
+- `src/lib/translations.ts`: interface text in all languages
+- `src/lib/i18n.tsx`: language, direction, number and date formatting
+- `src/lib/catalog.ts`, `catalogContext.tsx`, `staticCatalog.ts`: trip data
+- `src/lib/router.ts`: hash routing
+- `supabase/schema.sql`: database, security rules, server-side pricing
+- `SETUP-AR.md`: setup steps
 
-A Vite development server is **always running** on `$PORT` (default 8443). You don't need to start it manually.
+## Large content
+Do not read `src/data.ts`, `src/content/trips.*.json`, or `supabase/seed*.sql` whole. Use `rg -n 'term' <file>`, then read that line range.
 
-- Preview URL: The user can access the running app through the preview panel
-- Hot reload: Changes to source files are reflected immediately
+## Commands
+- `pnpm build`
+- `pnpm exec tsc --noEmit`
 
-## Key Files
-
-- `src/App.tsx` - Main application component
-- `src/main.tsx` - React entry point
-- `src/index.css` - Global styles and Tailwind CSS import
-- `package.json` - Dependencies and scripts
-- `vite.config.ts` - Vite configuration
-- `.mise.toml` - Toolchain versions (Node.js, pnpm)
-
-## Styling
-
-This project uses **Tailwind CSS v4** for styling. Use Tailwind utility classes directly in JSX. Tailwind is loaded via the Vite plugin — no PostCSS config needed.
+## Rules
+- Reply in Arabic when the user writes in Arabic.
+- Styling uses Tailwind utilities. Prefer `ms-`, `me-`, `ps-`, `pe-`, `start-`, `end-`, `text-start`, and `text-end`.
+- Inputs inside flex rows need `min-w-0`.
+- No `letter-spacing` on Arabic text.
+- Any new interface text must be added in all four languages.
+- After layout changes, check Arabic at 360 px for horizontal scroll.
+- Do not add a dependency when existing code covers the need.
+- Do not guess APIs, flags, or package names; check the code or docs.
+- A change is finished only after `pnpm build` passes.
