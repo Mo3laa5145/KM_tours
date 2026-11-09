@@ -76,7 +76,7 @@ export default function SearchBar({ navigate, large, defaultValue = '' }: Search
           onChange={(e) => { setQuery(e.target.value); setOpen(true) }}
           onFocus={() => { setFocused(true); setOpen(true) }}
           placeholder={t('search.placeholder')}
-          className="flex-1 bg-transparent outline-none"
+          className="min-w-0 flex-1 bg-transparent outline-none"
           style={{
             fontSize: large ? '16px' : '15px',
             color: '#1E293B',
